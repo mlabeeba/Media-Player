@@ -1,0 +1,9 @@
+.\flash\adcuser.o: ..\USBAudio\adcuser.c
+.\flash\adcuser.o: ..\USBAudio\type.h
+.\flash\adcuser.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\adcuser.o: ..\USBAudio\usb.h
+.\flash\adcuser.o: ..\USBAudio\audio.h
+.\flash\adcuser.o: ..\USBAudio\usbcfg.h
+.\flash\adcuser.o: ..\USBAudio\usbcore.h
+.\flash\adcuser.o: ..\USBAudio\adcuser.h
+.\flash\adcuser.o: ..\USBAudio\usbaudio.h
